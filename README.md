@@ -4,6 +4,7 @@
 ## Database Schema Design
 
 `<insert database schema design here>`
+![alt text](https://github.com/chencc33/AAProject1-AirBnb/blob/main/AirBnbProject.png)
 
 ## API Documentation
 

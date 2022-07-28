@@ -1,4 +1,3 @@
-# AAProject1-AirBnb
 # `<AirBnB>`
 
 ## Database Schema Design
